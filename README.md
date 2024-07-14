@@ -8,5 +8,4 @@ https://drive.google.com/drive/folders/1lRYJ3aQ7xuyz9uUAemGEMfhccX3YIlMT?usp=sha
 
 Git Hub Link
 
-
-https://github.com/karthikeyan456/SG_iHackMyPlace_Automatic_VBA_Documentation.git
+https://github.com/karthikeyan456/SG_iHackMyPlaceHackathon_Automatic_VBA_Documentation.git
